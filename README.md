@@ -36,3 +36,5 @@ In this course, you will learn many of the interesting algorithms that have been
 ## Course materials
 You can download the textbook through this [link](http://www.mmds.org/)
 
+## Self-study tool
+If you are a student and willing to test knowledge on yourself, welcome to use the tool of [Gradiance Online Accelerated Learning](http://www.gradiance.com/) can register at [here](http://www.gradiance.com/services) and the class token **1EDD8A1D** to join the "omnibus class" for the MMDS book.
