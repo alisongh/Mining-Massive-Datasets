@@ -13,7 +13,10 @@ In this course, you will learn many of the interesting algorithms that have been
 * Anand Rajaraman
 * Jeff Ullman
 
-## Course outline
+## Course outline (edX)
+
+**Be aware that the outline of the course on edX is different from the CS246**
+
 1. MapReduce
 1. Link Analysis (PageRank)
 1. Locality-Sensitive Hashing
