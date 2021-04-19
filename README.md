@@ -1,4 +1,4 @@
-# Mining-Massive-Datasets
+# Mining Massive Datasets
 Stanford University CS246
 
 * [Link of the course](http://web.stanford.edu/class/cs246/)
